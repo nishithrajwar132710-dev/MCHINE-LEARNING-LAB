@@ -32,6 +32,6 @@ Open any notebook in Jupyter Notebook and run all cells.
 Or upload the .ipynb file to Google Colab and run it there (no installation needed).
 
 Author
-Name:
-Enrollment No.:
-University:
+Name:NISHITH RAJWAR
+Enrollment No.: 92400133168
+University: MARWADI UNIVERSITY
